@@ -1,0 +1,1 @@
+<img src="{{ asset('img/canon-logo.png') }}" alt="Canon Open Channel" />
